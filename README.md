@@ -1,18 +1,18 @@
-# 🏏 Cricket Match Outcome Prediction using Machine Learning
+#  Cricket Match Outcome Prediction using Machine Learning
 
-## 📌 Project Title
+##  Project Title
 
 **Predictive Modeling of Cricket Match Outcomes using Feature Engineering and Ensemble Learning**
 
 
 
-## 📖 Overview
+##  Overview
 
 This project focuses on building a machine learning model to predict the outcome of cricket matches using historical match data, player statistics, and match conditions. The goal is to leverage data-driven techniques to improve prediction accuracy and understand key factors influencing match results.
 
----
 
-## 🚀 Key Features
+
+##  Key Features
 
 * Advanced feature engineering using rolling averages and target encoding
 * Handling missing data with time-aware imputation techniques
@@ -20,15 +20,15 @@ This project focuses on building a machine learning model to predict the outcome
 * Robust validation using 5-fold cross-validation
 * End-to-end ML pipeline for training and inference
 
----
 
-## 🧠 Problem Statement
+
+##  Problem Statement
 
 Predict whether **Team 1 wins or loses** a cricket match based on match conditions such as toss decision, venue, team composition, and historical performance.
 
----
 
-## 📊 Dataset
+
+##  Dataset
 
 The dataset includes:
 
@@ -36,9 +36,9 @@ The dataset includes:
 * Player statistics (batsman & bowler performance)
 * Training and testing datasets
 
----
 
-## ⚙️ Tech Stack
+
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -46,9 +46,9 @@ The dataset includes:
 * CatBoost, XGBoost, LightGBM
 * Jupyter Notebook
 
----
 
-## 🔧 Workflow
+
+##  Workflow
 
 1. Data Cleaning and Preprocessing
 2. Handling Missing Values using Rolling Mean
@@ -58,46 +58,46 @@ The dataset includes:
 6. Model Evaluation using Cross-Validation
 7. Inference on Test Data
 
----
 
-## 📈 Results
+
+##  Results
 
 * Achieved approximately **~80% accuracy** using CatBoost Classifier
 * Improved performance by **~10% over baseline models**
 * Achieved stable cross-validation score of **~0.80+**
 
----
 
-## 📁 Project Structure
 
-```
+##  Project Structure
+
+
 ├── Feature-Engineering-Notebook.ipynb
 ├── Inference-notebook.ipynb
 ├── data/
 ├── models/
 └── README.md
-```
 
----
 
-## 💡 Key Learnings
+
+
+##  Key Learnings
 
 * Importance of feature engineering in structured data problems
 * Effectiveness of target encoding for categorical variables
 * Power of ensemble learning methods in prediction tasks
 
----
 
-## 🔮 Future Improvements
+
+##  Future Improvements
 
 * Hyperparameter tuning using GridSearchCV / Optuna
 * Deployment using Flask or Streamlit
 * Real-time prediction system
 
----
 
-## 👩‍💻 Author
+
+##  Author
 
 **Sanskruti Nagrale**
 
----
+
